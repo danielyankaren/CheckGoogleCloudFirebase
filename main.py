@@ -2,8 +2,7 @@ import pandas as pd
 import firebase_admin
 from firebase_admin import db
 from scripts import check1, check2, calculate_corr
-import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:/Users/kdanielyan/NextGate/serviceAccountKey.json"
+
 
 # set GOOGLE_APPLICATION_CREDENTIALS env variable to the path of service account key.
 def main():
