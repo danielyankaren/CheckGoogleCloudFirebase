@@ -1,5 +1,5 @@
 # Firebase + Cloud Trigger Functions
-The project created as a solution to the task presented by NextGateTech
+The project created to be a solution for connecting google cloud trigger functions to Firebase realtime database actions.
 Contributor: Karen Danielyan
 
 The files in this repository are:
