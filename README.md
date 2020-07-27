@@ -1,4 +1,4 @@
-# NextGate
+# Firebase + Cloud Trigger Functions
 The project created as a solution to the task presented by NextGateTech
 Contributor: Karen Danielyan
 
